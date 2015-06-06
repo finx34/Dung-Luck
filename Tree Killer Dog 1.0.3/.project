@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>Tree Killer Dog 1.0.3</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>FinxLibraries</name>
+			<type>2</type>
+			<location>C:/Users/Gabriel/Documents/Workspace/FinxLibraries/src</location>
+		</link>
+	</linkedResources>
+	<variableList>
+		<variable>
+			<name>FinxLibraries</name>
+			<value>file:/C:/Users/Gabriel/Documents/Workspace/FinxLibraries/src</value>
+		</variable>
+	</variableList>
+</projectDescription>
